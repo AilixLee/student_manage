@@ -1,1 +1,1 @@
-This a student manage project
+This is a student manage project
